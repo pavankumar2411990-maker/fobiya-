@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Realty",
+  "description": "Premium luxury real estate agency platform featuring exceptional curated properties, high-end design, and personalized client consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
